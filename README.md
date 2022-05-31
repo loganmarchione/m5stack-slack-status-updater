@@ -2,7 +2,7 @@
 
 When I walk away from my desk for lunch, I always forget to update my Slack status. I could use my phone, but then I have to unlock it, open Slack, pick an emoji, etc... Too many buttons, too much work.
 
-If only some piece of hardware existed to allowed me to update my Slack status with a pre-programmed button... 🤔
+If only some piece of hardware existed to allow me to update my Slack status with a pre-programmed button... 🤔
 
 The M5Stack Core2 has three touch buttons and a magnet in the back, so it will live on the side of my fridge. Each button makes a Slack API call with a pre-programmed status, with the option to "reset" my status on the last button.
 

@@ -4,6 +4,15 @@ When I walk away from my desk for lunch, I always forget to update my Slack stat
 
 If only some piece of hardware existed to allowed me to update my Slack status with a pre-programmed physical button 🤔
 
+
+https://user-images.githubusercontent.com/4955337/171285130-c45aa088-1eee-4d63-aa8a-8f8d57907cff.mp4
+
+
+
+https://user-images.githubusercontent.com/4955337/171285139-b7cd4357-f014-461d-b78c-a4559674e83f.mp4
+
+
+
 ## Disclaimer
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 - This is literally my first time writing C-type code and will be the sloppiest thing you see today.

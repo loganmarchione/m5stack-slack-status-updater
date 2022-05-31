@@ -1,0 +1,13 @@
+display_information:
+  name: M5Stack Slack status updater
+  description: Update your Slack status using an M5Stack Core2
+  background_color: "#737373"
+oauth_config:
+  scopes:
+    user:
+      - users.profile:read
+      - users.profile:write
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false
